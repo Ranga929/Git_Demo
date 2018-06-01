@@ -1,3 +1,5 @@
 First line entered in samplefile
 
 code entered by user1
+
+code entered by user2
